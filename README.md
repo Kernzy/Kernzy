@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Keaton.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
